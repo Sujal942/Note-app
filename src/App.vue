@@ -157,7 +157,7 @@ header > button:hover {
   width: 70%;
   margin-top: 20px;
   border-radius: 20px;
-  box-shadow: 2px 2px 6px 2px rgba(0, 0, 0, 0.249);
+  box-shadow: 1px 1px 5px 3px rgba(152, 143, 143, 0.232);
   display: flex;
   justify-content: center;
   overflow: hidden;
