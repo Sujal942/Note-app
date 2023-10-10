@@ -1,3 +1,7 @@
+Deployment Link of App:-
+https://6525a04dc09e6317e8d3df1b--cheery-ganache-b6f450.netlify.app/
+
+
 # Note-app
 
 This template should help get you started developing with Vue 3 in Vite.
