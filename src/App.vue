@@ -80,8 +80,7 @@ main {
 }
 .model {
   width: 600px;
-  height: 200px;
-  background-color: antiquewhite;
+  height: 400px;
   border-radius: 20px;
   padding: 10px;
   position: relative;
@@ -92,7 +91,7 @@ main {
 .model button {
   cursor: pointer;
   padding: 8px 20px;
-  margin: 2px 0;
+  margin: 5px 0;
   width: 100%;
   background-color: blue;
   color: white;
